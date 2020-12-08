@@ -1,6 +1,6 @@
 # Building-an-Artificial-Neural-Network-in-TensorFlow-2.0
 
-# Thing to create a Artificial Neural Network
+# Thing todo create a Artificial Neural Network
 # 1. Loading the librarires
 # 2. Importing the dataset
 # 3. Data Preprocessing
