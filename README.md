@@ -1,3 +1,6 @@
+#Dataset
+https://www.kaggle.com/zalando-research/fashionmnist
+
 # Building-an-Artificial-Neural-Network-in-TensorFlow-2.0
 
 # Thing todo create a Artificial Neural Network
