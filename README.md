@@ -18,3 +18,10 @@ https://www.kaggle.com/zalando-research/fashionmnist
     # 4.5 Compiling the model
     # 4.6 Training the model
     # 4.7 Model evaluation and prediction
+
+
+
+It is one of the project did I found usefull.
+
+Here is the course link. It is paid.
+https://www.udemy.com/course/tensorflow-2/
